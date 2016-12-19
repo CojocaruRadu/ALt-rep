@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdlib.h>
-
+//modificare
 using namespace std;
 class CVector
 {
